@@ -1,4 +1,4 @@
 # VolunteerSite
-## Volunteer website on the topic "Let's make our comfort a backyard"
+## Волонтерский сайт на тему "Давайте сделаем наш уют задним двором"
 
-> Technology: HTML5, CSS3m JavaScript, Bootstrap
+> Технологии используемые в проекте: HTML5, CSS3m JavaScript, Bootstrap
